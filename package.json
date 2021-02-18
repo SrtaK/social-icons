@@ -1,0 +1,27 @@
+{
+  "name": "iconos-sociales",
+  "version": "1.0.0",
+  "description": "Web component to create social icons",
+  "main": "social-icon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrtaK/social-icons.git"
+  },
+  "keywords": [
+    "webcomponents",
+    "litelement",
+    "javascript"
+  ],
+  "author": "@SrtaK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SrtaK/social-icons/issues"
+  },
+  "homepage": "https://github.com/SrtaK/social-icons#readme",
+  "dependencies": {
+    "lit-element": "^2.4.0"
+  }
+}
